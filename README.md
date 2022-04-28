@@ -2,4 +2,9 @@
 
 This is a simple test of making a file on GitHub
 
-I've commited to make a change in the file at this stage of the learning process.
+I commited to make some changes in the file at a previous stage of the learning process.
+
+
+## Thoughts on git
+
+Git may be useful, but god damn is it messy to get into.
